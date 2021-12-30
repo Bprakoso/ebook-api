@@ -7,10 +7,10 @@ use Illuminate\Http\Request;
 class AuthController extends Controller
 {
   public function me() {
-    return ['NIS' => 3103119044,
-        'name' => 'Bima Adhi Nugraha',
+    return ['NIS' => 3103119111,
+        'name' => 'Mohammad Bagus Prakoso',
         'gender' => 'Male',
-        'phone' => '085747336294',
-        'class' => 'XII RPL 2'];
+        'phone' => '085803425046',
+        'class' => 'XII RPL 4'];
   }
 }
