@@ -8,7 +8,7 @@ use Illuminate\Support\Facades\Hash;
 class AuthController extends Controller
 {
   public function me() {
-    return ['NIS' => 3103119044,
+    return ['NIS' => 3103119111,
         'name' => 'Mohammad Bagus Prakoso',
         'gender' => 'Male',
         'phone' => '085803425046',
